@@ -13,7 +13,9 @@
 
 <body>
 
-<?php draw($_REQUEST["num"]) ?>
+<pre>
+  <?php draw($_REQUEST["num"]) ?>
+</pre>
 
 </body>
 
